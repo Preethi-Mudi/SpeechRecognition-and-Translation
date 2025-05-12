@@ -1,0 +1,1 @@
+sppech recognition and translation
